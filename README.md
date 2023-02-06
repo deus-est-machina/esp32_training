@@ -1,3 +1,4 @@
 # esp32_training
 
-![image](https://user-images.githubusercontent.com/110601780/216944186-4bce1bcb-e85e-44e3-828a-322e02f658c8.png)
+![image](https://user-images.githubusercontent.com/110601780/216949388-7ad1faed-f90b-46b3-9b26-c3b2ee89943f.png)
+
