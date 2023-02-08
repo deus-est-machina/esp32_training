@@ -1,5 +1,22 @@
 # esp32_training
 
+## 0.00.003 - 09/02/2023
+	  
+### ADDED
+- examples\dht22
+  - - basic setup of temperature&humidity sensor dht22
+- examples\oled
+  - basic setup of ssd1306 oled
+- examples\relays
+  - basic setup of relays
+- examples\ultrasonic
+  - basic setup of ultrasonic range sensor hc sr04
+- firmware\esp32-20220618-v1.19.1.bin
+  - base micropython bin to flash if needed
+	  
+### REMOVED
+- documents\การใช้งานหน้าจอทัชสกรีน.docx
+
 ## 0.00.002 - 06/02/2023
 ### UPDATED
 - firmware\lvgl-upython.bin
