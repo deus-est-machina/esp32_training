@@ -6,9 +6,14 @@
 
 - ## Relay
 
+![Relay_principle_horizontal_new](https://user-images.githubusercontent.com/110601780/217445442-42234d2b-69c3-4e16-9a75-c92472505e64.gif)
+
 # Sensors
 
 - ## Motion Sensor
+
+![How_PIR_Sensor_Device_Detects_Human_Presence](https://user-images.githubusercontent.com/110601780/217445916-f9f152e2-6951-45b3-8bae-672a752bb44d.gif)
+
 
 - ## Temperature and Humidity
 
