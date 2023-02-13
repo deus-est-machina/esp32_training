@@ -1,5 +1,16 @@
 # esp32_training
 
+## 0.00.004 - 13/02/2023
+	  
+### ADDED
+- examples\README.md
+
+### RENAMED
+- examples\dht22 -> examples\dht11
+
+### REMOVED
+- examples\main_orig.py
+
 ## 0.00.003 - 09/02/2023
 	  
 ### ADDED
