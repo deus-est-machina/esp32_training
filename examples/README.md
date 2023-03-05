@@ -4,4 +4,4 @@
 
 ## OLED
 
-![image](https://user-images.githubusercontent.com/110601780/218414306-6ae6a737-786c-4a35-afa8-2990ff9c8943.png)
+![image](https://user-images.githubusercontent.com/110601780/221395868-e23b0287-a3d5-45ce-a209-35ccc78985d8.png)
